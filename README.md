@@ -57,9 +57,9 @@ pip install -r requirements.txt
 ## 📊 The Best Model Performance
 
 - Accuracy: 98%
-- Precision: 95%
-- Recall: 94%
-- F1-Score: 95%
+- Precision: 99%
+- Recall: 98%
+- F1-Score: 98%
 
 ## 🤝 Contributing
 
