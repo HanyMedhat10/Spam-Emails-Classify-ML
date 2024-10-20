@@ -71,6 +71,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 👥 Contact
 
-- Your Name
+- Hany Medhat
 - Email: <Hany.Medhat24@gmail.com>
 - GitHub: [@HanyMedhat10](https://github.com/HanyMedhat10)
